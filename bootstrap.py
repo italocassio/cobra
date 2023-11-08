@@ -41,6 +41,6 @@ sleep(0.5)
 # btn_click.click()
 
 os.popen("cp ~/.local/share/undetected_chromedriver/undetected_chromedriver .")
-
+# C:\Users\usuario\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\Roaming\undetected_chromedriver
 sleep(0.5)
 print("ok")
